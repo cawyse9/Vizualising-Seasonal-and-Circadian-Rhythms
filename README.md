@@ -16,7 +16,11 @@ The long nights of winter affect glial cells (in red and green) at the junction 
 ## The Metronome of the Mind  
 The suprachiasmatic nucleus (in yellow) is the master clock of the brain, timing physiology and behaviour to ensure that we are hungry, sleepy and alert at the right
 times of day.
-
+<img
+  src="/images/SCN300.tif"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 ## Immune Clocks
 Macrophages are the soldiers, sentinels and messengers of the immune system. Our studies show that these cells have their own molecular clock that allows them to
 synchronise these protective roles to the times of day that we need them most.
