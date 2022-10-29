@@ -33,7 +33,7 @@ times of day.
 Macrophages are the soldiers, sentinels and messengers of the immune system. Our studies show that these cells have their own molecular clock that allows them to
 synchronise these protective roles to the times of day that we need them most.
 <img
-  src="/images/macrophage_600-1.tif"
+  src="/images/macrophage_600-1.jpg"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
