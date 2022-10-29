@@ -12,15 +12,30 @@ The word inflammation is derived from the Latin *inflame*, meaning “to set on 
   
 ##  Seasons Greetings  
 The long nights of winter affect glial cells (in red and green) at the junction between the brain and pituitary gland to regulate seasonal patterns in physiology in animals. Studying how daylength can affect physiology helps us to understand the reasons why many diseases are more common in wintertime.
+<img
+  src="/images/scn300.tif"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+
 
 ## The Metronome of the Mind  
 The suprachiasmatic nucleus (in yellow) is the master clock of the brain, timing physiology and behaviour to ensure that we are hungry, sleepy and alert at the right
 times of day.
 <img
-  src="/images/SCN300.tif"
+  src="/images/scn300.tif"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
+  
 ## Immune Clocks
 Macrophages are the soldiers, sentinels and messengers of the immune system. Our studies show that these cells have their own molecular clock that allows them to
 synchronise these protective roles to the times of day that we need them most.
+<img
+  src="/images/macrophage_600-1.tif"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+
