@@ -24,7 +24,7 @@ The long nights of winter affect glial cells (in red and green) at the junction 
 The suprachiasmatic nucleus (in yellow) is the master clock of the brain, timing physiology and behaviour to ensure that we are hungry, sleepy and alert at the right
 times of day.
 <img
-  src="/images/scn300.tif"
+  src="/images/scn300.jpg"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
