@@ -11,13 +11,16 @@ The word inflammation is derived from the Latin *inflame*, meaning “to set on 
   style="display: inline-block; margin: 0 auto; max-width: 300px">
   
 ##  Seasons Greetings  
-The long nights of winter affect glial cells (in red and green) at the junction between the brain and pituitary gland to regulate seasonal patterns in physiology in animals. Studying how daylength can affect physiology helps us to understand the reasons why many diseases are more common in wintertime.
+The long nights of winter affect glial cells (in red and green) at the junction between the brain and pituitary gland to regulate seasonal patterns in physiology in animals. Studying how daylength can affect physiology helps us to understand the reasons why many diseases are more common in wintertime.  
+
+
 <img
   src="/images/seasonal_300.jpg"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
+                                                   
 
 
 ## The Metronome of the Mind  
