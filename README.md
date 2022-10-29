@@ -1,13 +1,12 @@
-# Science-Communication
-Images and text I created for science communication
+# Vizualising Seasonal and Circadian Rhythms in Action
 
+Circadian and seasonal rhythms are generated endogenously by biolociatl "clock" mechanisms that are present in virtually every human cell.  This clock drives oscillation in the proteins and structures of the brain and immune system to generate 24h patterns in human physiology including sleep, hormone levels and immune function.  These images show the cells and structures of the brain and immune system that are involved in generating circadian and seasonal rhythms.  The dual techniques of confocal microscopy and immunocytochemistry allow the relevant cellular structures to be highlighted in three-dimensions, producing a snapshot of a moment of physiological time.
 
 ## Chronic Inflammation: The Friendly Fire of the Immune System
 The word inflammation is derived from the Latin ~inflame~, meaning “to set on fire”, an apt description for the bombardment of reactive biochemicals that surges from inflamed white blood cells.  Macrophages are the frontline responder cells of the immune system, and by colouring them with an oxidation-sensitive dye, we were able to image the furore of their response to inflammatory stimuli in real-time.  Inflammation is a powerful defence against injury and disease, but failure of systemic regulation of this fiery mechanism damages the host tissues and leads to chronic disease.
 
 ##  Seasons Greetings  
 The long nights of winter affect glial cells (in red and green) at the junction between the brain and pituitary gland to regulate seasonal patterns in physiology in animals. Studying how daylength can affect physiology helps us to understand the reasons why many diseases are more common in wintertime.
- 
 
 ## The Metronome of the Mind  
 The suprachiasmatic nucleus (in yellow) is the master clock of the brain, timing physiology and behaviour to ensure that we are hungry, sleepy and alert at the right
