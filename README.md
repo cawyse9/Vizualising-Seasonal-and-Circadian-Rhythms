@@ -52,7 +52,7 @@ This image shows a slice through the hypothalamus of the brain.  The suprachiasm
 &nbsp; 
 
 ## Immune Clocks
-Macrophages are the soldiers, sentinels and messengers of the immune system. Microglia are a specialised type of macrophage in the brain. Our studies show that these cells have their own molecular clock that allows them to synchronise these protective roles to the times of day that we need them most.
+Macrophages are the soldiers, sentinels and messengers of the immune system. Microglia (bottom image) are a specialised type of macrophage in the brain. Our studies show that these cells have their own molecular clock that allows them to synchronise these protective roles to the times of day that we need them most.
 
 <p align="center">
 <img
