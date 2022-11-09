@@ -64,7 +64,7 @@ Macrophages are the soldiers, sentinels and messengers of the immune system. Mic
 &nbsp; 
 <p align="center">
 <img
-  src="/images/microglia2.jpg"
+  src="/images/mg.jpg"
   alt="Alt text"
   title="Optional title"
   style="display: block; margin: 0 auto; width: 70%">
